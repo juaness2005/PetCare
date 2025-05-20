@@ -1,0 +1,5 @@
+para trocar a branch:
+
+git checkout -b nome_da_branch
+
+ctrl + j = abrir o terminal
